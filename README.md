@@ -8,7 +8,7 @@
 </div>
 
 <div  align="center">
-<a href="http://www.github.com/srknea"><img src="https://activity-graph.herokuapp.com/graph?username=srknea&bg_color=0f172a&color=ffffff&line=3382ed&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/srknea"><img src="https://activity-graph.herokuapp.com/graph?username=srknea&bg_color=0f172a&color=ffffff&line=3382ed&point=ffffff&area_color=b4a7d6&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 </div>
 
 <div align="center">
