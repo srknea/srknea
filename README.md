@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://github.com/srknea"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF0000&width=435&lines=Senior+Student+at+Karabuk+University%2C;Department+of+Computer+Engineering." alt="Typing SVG" /></a>
+<a href="https://github.com/srknea"><img width="70%" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF0000&width=435&lines=Senior+Student+at+Karabuk+University%2C;Department+of+Computer+Engineering." alt="Typing SVG" /></a>
 </p>
 
 <div align="center">
