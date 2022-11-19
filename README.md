@@ -24,7 +24,3 @@
 <hr/>
 
 <div  align="center"> <img src="https://github.com/srknea/srknea/blob/output/github-contribution-grid-snake.svg" /></div>
-
-<hr/>
-
-Medium article: [Add React to a Website](https://medium.com/@dehnas79/add-react-to-a-website-eba672fae5fa)
