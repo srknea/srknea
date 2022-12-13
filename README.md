@@ -7,6 +7,8 @@
 <p>LinkedIn</p><a href="https://www.linkedin.com/in/srkneaisik/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/@srkneaisik-0f172a?style=flat&logo=linkedin"></a>
 <p>Medium</p><a href="https://medium.com/@dehnas79" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/https://medium.com/@dehnas79-0f172a?style=flat&logo=medium"></a>
 
+  </hr>
+  
 <!--
 <div  align="center">
 <a href="http://www.github.com/srknea"><img src="https://activity-graph.herokuapp.com/graph?username=srknea&bg_color=0f172a&color=ffffff&line=3382ed&point=ffffff&area_color=b4a7d6&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
