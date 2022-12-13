@@ -5,8 +5,7 @@
 <div align="center">
 <p>Email: <a href="mailto:dehnas79@gmail.com"><img alt="Email" src="https://img.shields.io/badge/dehnas79@gmail.com-0f172a?style=flat&logo=gmail"></a></p>
 <p>LinkedIn: <a href="https://www.linkedin.com/in/srkneaisik/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/@srkneaisik-0f172a?style=flat&logo=linkedin"></a></p>
-<p>Medium: <a href="https://medium.com/@dehnas79" target="_blank" src="https://img.shields.io/badge/https://medium.com/@dehnas79-0f172a?style=flat&logo=medium"></p>
-</div>
+<p>Medium: <a href="https://medium.com/@dehnas79" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/https://medium.com/@dehnas79-0f172a?style=flat&logo=medium"></a></p>
 
 <!--
 <div  align="center">
