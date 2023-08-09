@@ -1,6 +1,16 @@
-### Hi there 👋
+<div align="center">
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=srknea&theme=dark"/>
+</div>
+
+<div align="center">
+<a href="https://github.com/srknea" align="left"><img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srknea&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+</div>
+
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=srknea&label=Profile%20views&color=0f172a&style=flat" alt="srknea" /> </div>
 
 <!--
+### Hi there 👋
+
 **srknea/srknea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
